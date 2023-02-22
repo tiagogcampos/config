@@ -3,6 +3,12 @@ theme = "bogster_light"
 [editor]
 true-color = true
 line-number = "relative"
+mouse = false
+
+[editor.file-picker]
+hidden = false
+git-ignore = true
+git-global = true
 
 [editor.cursor-shape]
 insert = "bar"
